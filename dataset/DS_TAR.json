@@ -1,10 +1,6 @@
 {
-	"name": "DS_TAR_CSV",
+	"name": "DS_TAR",
 	"properties": {
-		"linkedServiceName": {
-			"referenceName": "LS_Sou_ADLS",
-			"type": "LinkedServiceReference"
-		},
 		"annotations": [],
 		"type": "DelimitedText",
 		"typeProperties": {

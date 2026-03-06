@@ -49,13 +49,13 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "DS_SOU_CSV",
+						"referenceName": "DS_SOU",
 						"type": "DatasetReference"
 					}
 				],
 				"outputs": [
 					{
-						"referenceName": "DS_TAR_CSV",
+						"referenceName": "DS_TAR",
 						"type": "DatasetReference"
 					}
 				]
@@ -81,7 +81,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"dataset": {
-						"referenceName": "DS_SOU_CSV",
+						"referenceName": "DS_SOU",
 						"type": "DatasetReference"
 					},
 					"enableLogging": false,

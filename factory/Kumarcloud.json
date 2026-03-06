@@ -1,0 +1,9 @@
+{
+	"name": "Kumarcloud",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d5f2b5b3-f7a7-457c-998c-945e22031d7c",
+		"tenantId": "c3707a88-3e03-4045-8544-69c37d5c246b"
+	}
+}
